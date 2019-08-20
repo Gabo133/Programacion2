@@ -1,4 +1,4 @@
-# Agenda de Notas
+# Agenda de Contactos
 
 Deberá crear un programa en java que funcione como agenda de contactos. Este programa debe permitir realizar las siguientes acciones.
 * Almacenar un contacto telefonico (con los datos que estime conveniente (incluir número))
