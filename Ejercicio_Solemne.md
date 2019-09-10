@@ -45,7 +45,7 @@ Deberá completar la función asociada al menú "Abrir Agenda de contactos", la 
 
 Las instancias de la clase "Contacto" deben ser almacenadas en una lista.
 
-### Ejericico 2.
+### Ejercicio 2.
 Deberá crear la clase "Bloc de Notas", la cual tendrá como finalidad almacenar datos, esta clase tendrá los siguientes atributos: Título
 SubTítulo, Descripción. Los metodos asociados a la clase son los siguientes: Get y Set Correspondientes.
 
