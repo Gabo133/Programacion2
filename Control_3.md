@@ -1,5 +1,4 @@
 # Control de Arreglos
-#Item A, Item B
 ## Pregunta 1.
 Deberán crear la clase matriz, la cual tendrá los siguientes atributos.
 * Nombre de la matriz
